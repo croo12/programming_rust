@@ -1,5 +1,5 @@
 [package]
-name = "programming_rust_book"
+name = "actix-test"
 version = "0.1.0"
 edition = "2021"
 
